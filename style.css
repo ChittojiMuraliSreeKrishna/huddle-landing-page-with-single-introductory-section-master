@@ -85,6 +85,7 @@ footer{
         background: url("./images/bg-mobile.svg");
         background-repeat: no-repeat;
         background-color: var(--Violet);
+        background-size: 100%;
     }
     .card{
         display: flex;
